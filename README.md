@@ -1,6 +1,6 @@
 # Paul Shand's Project Portfolio
 
-Welcome to my GitHub portfolio! I'm Paul Shand, a recent college graduate with a passion for exploring various facets of computer science and engineering. This repository is a collection of key projects I've worked on, demonstrating my skills in areas ranging from multithreading and cache mechanisms to logic design and compiler construction. Each project represents a piece of my journey through academic and personal exploration in the field of computer science.
+Welcome to my GitHub portfolio! I'm Paul Shand, a recent college graduate with a passion for exploring various facets of computer science and engineering. This repository is a collection of key projects I've worked on, demonstrating my skills in areas ranging from multithreading and cache mechanisms to logic design and compiler construction. Each project represents a piece of my journey through academic and personal exploration in the field of computer engineering.
 
 ## Projects Overview
 

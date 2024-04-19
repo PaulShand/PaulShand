@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm Paul Shand, a recent college graduate with a
 This project explores the intricacies of multithreading in C. It includes the implementation of a custom reader-writer lock and a thread-safe queue, both utilizing pthreads for concurrency management.
 
 ### [Logic Design Projects - Verilog Code](./Intro-Logic-Design)
-A collection of projects completed in my Introduction to Logic Design course, showcasing my skills in Verilog. The projects range from basic digital logic gates to complex designs like an interactive reflex game, all developed using Vivado and programmed onto a Basys 3 FPGA board.
+A collection of projects completed in my Introduction to Logic Design course, showcasing my skills in Verilog. The projects are all designs that are interactive games utilizing the I/O of an FPGA, all developed using Vivado and programmed onto a Basys 3 FPGA board.
 
 ### [Embedded System Design Course - Labs](./Course-Embedded-System-Design)
 Hands-on labs from my Embedded System Design course, focusing on using the PSoC 6 CY8CPROTO-063-BLE Prototyping Kit and Arduino Nano 33 BLE. These labs cover a range of topics, from basic microcontroller programming to complex systems involving communication protocols and external hardware integration.

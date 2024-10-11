@@ -20,7 +20,7 @@ An exploration into compiler design, this project delves into tokenization, pars
 An implementation of cache mechanisms in C, featuring FIFO, LRU, and Clock designs. The project uses doubly linked lists to simulate caching behavior and provides valuable insights into different caching algorithms and their applications.
 
 ### [Cube-Computer](https://github.com/PaulShand/Cubeputer)
-Cube-Computer is a digital logic design project using Logisim to simulate a custom-built computer system. It includes a unique processor and GPU that manipulate a cube on a 2D display using a custom instruction set. Features include schematic design, interactive controls, and real-time cube manipulation commands.
+Cube-Computer is a digital logic design project using Logisim to simulate a custom-built computer system. It includes a processor that manipulate a cube on a 2D display using a custom instruction set. Features include schematic design, interactive controls, and real-time cube manipulation commands.
 
 ### [Sumplete-Solver](https://github.com/PaulShand/Sumplete-Solver)
 An advanced strategy employing constraint satisfaction techniques to efficiently solve Sumplete puzzles at the highest difficulty levels in under 3 seconds. This project uses selenium.webdriver to automate puzzle solving in a web browser, with options for different solving strategies and puzzle sizes.
